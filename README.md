@@ -5,6 +5,7 @@ Interaction headset
 ![wood](https://user-images.githubusercontent.com/86419683/123462614-d787d900-d5ea-11eb-8e69-389490a7a5bf.jpg)
 ![wood2](https://user-images.githubusercontent.com/86419683/123462618-d8b90600-d5ea-11eb-80d9-3e2e117cdd64.jpg)
 
+[main](https://github.com/lotteeymann/Opdracht6/blob/32ab00e162e65e3d3b34370e38dde88b9ed2752b/main.js)
 
 <!DOCTYPE html>
 <html>
