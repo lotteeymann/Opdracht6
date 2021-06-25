@@ -31,8 +31,8 @@ Interaction headset
         <a-ring id="cursorRing" 
           position="0 0 -1"
           radius-inner= "0.02"
-          radius-outer= "0.03"
-          material="color: red; shader: flat">
+          radius-outer= "0.08"
+          material="color: #ff1493; shader: flat">
         </a-ring>
       </a-camera>
       
